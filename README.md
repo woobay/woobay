@@ -5,7 +5,6 @@ Full-Stack Developer
 --------------------
 
 * 🌍  I'm based in Quebec City
-* ✉️  You can contact me at [gl.gabriellafrance@gmail.com](mailto:gl.gabriellafrance@gmail.com)
 * 🚀  I'm currently working on [A climbing App](http://github.com/woobay/Climbing_APP)
 * 🧠  I'm learning Typescript - React
 
