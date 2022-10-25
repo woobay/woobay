@@ -5,7 +5,7 @@ Full-Stack Developer
 --------------------
 
 * 🌍  I'm based in Quebec City
-* 🚀  I'm currently working on [A climbing App](http://github.com/woobay/Climbing_APP)
+* 🚀  I'm currently working on [A forum App](http://github.com/woobay/Climbing_APP)
 * 🧠  I'm learning Typescript - React
 
 ### Skills
